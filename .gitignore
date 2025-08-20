@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Logs
+*.log
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Node (au cas où un front soit ajouté)
+node_modules/
+
+# Divers
+*.bak
+*.swp
+*~
+
+
